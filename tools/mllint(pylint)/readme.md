@@ -7,5 +7,7 @@ environment:
  
 usage:
 
+		pip install mllint
 		$ mllint ${dir} > ${dir}.md
-	dir is your dictionaty to detect
+		
+dir is your dictionaty to detect
