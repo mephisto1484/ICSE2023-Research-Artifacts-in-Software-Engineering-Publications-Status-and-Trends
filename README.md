@@ -4,4 +4,4 @@ tools are in the /tool/
 
 //Our dataset is available at 
 
-//Our experiement result is in /results/
+//Our statistics result is in /results/
